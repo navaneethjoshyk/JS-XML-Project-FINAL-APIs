@@ -15,5 +15,3 @@ It’s built with:
 
 ---
 
-## Folder Structure
-
